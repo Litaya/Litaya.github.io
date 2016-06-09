@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
     我就是个享乐的主。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.xinru.me" # the base hostname & protocol for your site
-twitter_username: xinnnru
+twitter_username: xinru_zhang
 github_username:  Litaya
 
 # Build settings

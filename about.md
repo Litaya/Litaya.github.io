@@ -4,12 +4,20 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+又是一个俗套的About
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+我叫张馨如，小时候路边摊算命的起的名，说我长大以后一定是个文曲星，后来成为了一个写代码的hhhhhhh
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+**目前职业**：学生
+**院校**：帝都仰望星空大学软件学院
+
+我最佩服两种人：
+1. 有真正想做的事情（不为名利而为理想）并为之废寝忘食甚至于舍身忘死的人。
+2. 虽没有那样强烈地想做的一件事情，但决不蝇营狗苟盲从跟风，有原则不拘束，放浪形骸之外的人。
+因为只有这两种人活得是自己，且最幸福。
+
+所以如果哪位朋友觉得自己属于以上两种人的一种请务必联系我，颜值高的优先哈哈哈。
+
+本博客就是个杂货铺，想写啥就写啥的那种。如果能吸引到朋友你的驻足，不胜荣幸。
+
+最后，有朋自远方来，不亦乐乎~
