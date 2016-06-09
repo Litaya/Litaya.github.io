@@ -1,16 +1,16 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-baseurl: "" # the subpath of your site, e.g. /blog
+title: 馨如姐姐杂货铺
+email: zxr@xinru.me
+baseurl: "/gitblog" # the subpath of your site, e.g. /blog
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Sidebar settings
-description: One sentence introducing yourself or what you do
+description: 做好玩的让自己的开心的事情就好
 
 # Social icons
-facebook: username
-linkedin: username
-github: username
+facebook: xinnnru
+linkedin: 张馨如
+github: Litaya
 deviantart: username
 codepen: username
 
