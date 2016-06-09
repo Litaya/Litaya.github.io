@@ -1,7 +1,6 @@
 # Site settings
 title: 馨如姐姐杂货铺
 email: zxr@xinru.me
-baseurl: "/gitblog" # the subpath of your site, e.g. /blog
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Sidebar settings
@@ -11,8 +10,6 @@ description: 做好玩的让自己的开心的事情就好
 facebook: xinnnru
 linkedin: 张馨如
 github: Litaya
-deviantart: username
-codepen: username
 
 footer: © Taken theme
 
