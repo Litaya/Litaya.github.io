@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![img](./img/head.jpg)
+
 ### 我
 - **姓名：**张馨如
 - **职业：**学生
