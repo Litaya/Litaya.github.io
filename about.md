@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 关于我和我的博客
+title: About
 permalink: /about/
 ---
-
+![img](./img/head.jpg)
 ### 我
 - **姓名：**张馨如
 - **职业：**学生
